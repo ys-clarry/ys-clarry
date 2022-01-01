@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ys-clarry an amateur programmer living in Japan.
+- 👀 I’m interested in web-based small applications.
+- 🌱 I’m currently learning Python and Linux. 
+- 💞️ I’m looking to work on easy-to-use, simple and fast user interface/experience.
+- 📫 Please feel free to send issues and PRs.
